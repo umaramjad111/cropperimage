@@ -63,7 +63,6 @@ export default function CropperImage() {
 
   const handleCrop = () => {
     const canvas = canvasRef.current;
-    const ctx = canvas.getContext("2d");
     const image = new Image();
     image.src = selectedImage;
 
