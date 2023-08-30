@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import CropperImage from './components/cropper/cropper';
 import Navbar from './components/navbar/navbar';
